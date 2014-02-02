@@ -1,0 +1,11 @@
+{
+ "name": "module",
+ "version": "3.24.10",
+ "main": "module.min.js",
+ "description": "'module' nodejs core module browserify-ied with `--standalone module`. Should support all module systems (commonjs, AMD & `window.module`) - check browserify docs.",
+ "keywords": [
+  "nodejs",
+  "browserify",
+  "module"
+ ]
+}
